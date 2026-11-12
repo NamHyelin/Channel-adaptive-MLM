@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "cwd": "C:/token_bit_transformer",
+            "env": {
+                "PYTHONPATH": "C:/token_bit_transformer"
+            }
+        },
+        {
+            "name": "main.py File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
+        },
+        {
+            "name": "test.py File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/test.py",
+            "justMyCode": false,
+        },
+        {
+            "name": "multiuser_test.py File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/multiuser/multi_test.py",
+        }
+    ]
+}
