@@ -22,7 +22,7 @@ Submitted to *IEEE Wireless Communications Letters*.
 
 ## Overview
 <p align="center">
-  <img src="https://github.com/NamHyelin/Channel-adaptive-MLM/main_fig.png" width="40%" alt="Dual-Stage Channel integration in MLM inference"/>
+  <img src="main_fig.png" width="40%" alt="Dual-Stage Channel integration in MLM inference"/>
 </p>
 
 ### System Framework
