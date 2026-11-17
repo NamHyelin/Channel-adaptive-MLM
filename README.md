@@ -18,6 +18,8 @@ H. Nam, J. Lee, S.-W. Ko, J. Choi, and S.-L. Kim
 
 Submitted to *IEEE Wireless Communications Letters*.
 
+[![arxiv](https://img.shields.io/badge/Google_Scholar-202C49?style=for-the-badge&logo=googlescholar&logoColor=F472B6)](https://arxiv.org/abs/2611.18958)
+
 ---
 
 ## Overview
